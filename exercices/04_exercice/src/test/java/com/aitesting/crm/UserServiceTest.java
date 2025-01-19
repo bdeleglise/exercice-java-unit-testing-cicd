@@ -134,4 +134,5 @@ public class UserServiceTest {
     Mockito.verify(userRepository).deleteUser(userId); // Ensure deleteUser is called
   }
 
+  // push event
 }
