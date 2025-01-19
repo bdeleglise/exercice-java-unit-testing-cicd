@@ -14,6 +14,4 @@ public class MoneyTest {
     Money result = m12CHF.add(m14CHF); // exécution de la méthode testée
     assertTrue(expected.equals(result)); // comparaison
   }
-
-  //hello
 }
