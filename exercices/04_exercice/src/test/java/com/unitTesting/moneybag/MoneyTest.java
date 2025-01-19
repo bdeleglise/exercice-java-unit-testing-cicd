@@ -15,4 +15,5 @@ public class MoneyTest {
     assertTrue(expected.equals(result)); // comparaison
   }
 
+  //hello
 }
