@@ -134,4 +134,9 @@ public class UserServiceTest {
     Mockito.verify(userRepository).deleteUser(userId); // Ensure deleteUser is called
   }
 
+  @Test
+  public void dazjid() {
+    Assertions.assertEquals(1, 0);
+  }
+
 }
