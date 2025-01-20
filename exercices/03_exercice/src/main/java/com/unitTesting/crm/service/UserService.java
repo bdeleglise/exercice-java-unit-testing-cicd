@@ -35,4 +35,5 @@ public class UserService {
     // si l'utilisateur existe mais a le rôle admin, alors renvoyer une exception NotAllowedException
   }
 
+  // push on test branch
 }
